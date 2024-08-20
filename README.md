@@ -1,2 +1,2 @@
-# top-admin-dashboard
+# TOP Admin Dashboard
 Admin Dashboard made as per The Odin Project
